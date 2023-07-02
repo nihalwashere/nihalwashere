@@ -9,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img src="https://github.com/nihalwashere/nihalwashere/blob/main/about.png?raw=true" alt="About me" />
+<img src="https://github.com/nihalwashere/nihalwashere/blob/master/about.png?raw=true" alt="About me" />
