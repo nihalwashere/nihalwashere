@@ -1,10 +1,10 @@
-Hey, I am Nihal 👋
+## Hey, I am Nihal 👋
 
 - 🔭 I’m currently working on: [CodeKickBot](https://codekickbot.com/)
 
 - 🌱 I’m currently learning: Remix
 
-- 👯 I’m looking to collaborate on: Front-end projects
+- 👯 I’m looking to collaborate on: Building MVP's
 
 - 🤔 I’m looking for help with: Finding a new job
 
