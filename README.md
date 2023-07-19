@@ -12,6 +12,6 @@
 
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/nihalwashere/)
 
-- ⚡ Fun fact: I am a first-degree black belt in Karate! Thiyaaaaa!
+- ⚡ Fun fact: I hold a first degree black belt in Karate! Thiyaaaaa!
 
-<img src="https://github.com/nihalwashere/nihalwashere/blob/master/about.png?raw=true" alt="About me" />
+<img src="./about.png" alt="About me" />
