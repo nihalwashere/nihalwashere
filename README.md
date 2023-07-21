@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with: Finding a new job
 
-- 💬 Ask me about: How to create exceptional digital experiences
+- 💬 Ask me about: How to build and deploy applications in the cloud
 
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/nihalwashere/)
 
