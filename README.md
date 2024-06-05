@@ -1,12 +1,10 @@
 ## Hey, I am Nihal 👋
 
-- 🔭 I’m currently working on: [CodeKickBot](https://codekickbot.com/)
+- 🔭 I’m currently working at: [Revscale AI](https://www.revscale.ai/)
 
-- 🌱 I’m currently learning: Remix
+- 🌱 I’m currently learning: AI/ML
 
 - 👯 I’m looking to collaborate on: Building MVP's
-
-- 🤔 I’m looking for help with: Finding a new job
 
 - 💬 Ask me about: How to build and deploy applications in the cloud
 
